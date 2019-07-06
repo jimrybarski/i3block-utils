@@ -1,0 +1,7 @@
+[package]
+name = "weather"
+version = "0.1.0"
+authors = ["Jim Rybarski <jim@rybarski.com>"]
+
+[dependencies]
+weathergov = "0.2.1"
