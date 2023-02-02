@@ -5,3 +5,4 @@ authors = ["Jim Rybarski <jim@rybarski.com>"]
 
 [dependencies]
 weathergov = "0.2.1"
+thread_local = "1.1.4"
